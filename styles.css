@@ -1,4 +1,15 @@
-.h1, .h2, .p
+h1, h2, p
 {
     text-align: center; 
+}
+
+body {
+    background-image:url("background.jpg");
+}
+.menu 
+{
+  width: 80%;
+  background-color: #e4c2d6;
+  margin-left: auto;
+  margin-right: auto;
 }
